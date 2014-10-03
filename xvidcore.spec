@@ -1,12 +1,12 @@
 Summary:	ISO MPEG-4 compliant video codec
 Name:		xvidcore
-Version:	1.3.2
-Release:	2
+Version:	1.3.3
+Release:	1
 Epoch:		1
 License:	GPL
 Group:		Libraries
 Source0:	http://downloads.xvid.org/downloads/xvidcore-%{version}.tar.bz2
-# Source0-md5:	34389e980d4f849688f8b1e168f4e2f9
+# Source0-md5:	f0a77572ac4694038e8519726b2883d9
 URL:		http://www.xvid.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
